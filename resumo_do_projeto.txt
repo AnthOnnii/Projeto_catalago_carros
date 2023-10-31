@@ -1,4 +1,4 @@
-criar um catalogo para a escolha de carros para passseio
+criar um catalogo para a escolha de carros(pick-ups)
 
 
 
